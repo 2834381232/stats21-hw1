@@ -1,3 +1,4 @@
 My name is Wenkang Huang.
 I am an UCLA student.
 I am learning Git and GitHub in STATS 21.
+I am taking STATS 21 in Fall 2026.
